@@ -1,14 +1,14 @@
 {
-  "name": "{{name}}",
-  "version": "{{version}}",
-  "description": "{{description}}",
+  "name": "react-webpack",
+  "version": "1.0.1",
+  "description": "React and webpack project scaffolding",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
-  "author": "{{author}}",
+  "author": "liushuai",
   "license": "ISC",
   "dependencies": {
     "antd": "^3.11.0",
