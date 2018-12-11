@@ -1,14 +1,14 @@
 {
-  "name": "react-webpack",
-  "version": "1.0.0",
-  "description": "a react program build with webpack",
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
   "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --mode development --open",
     "build": "webpack --mode production"
   },
-  "author": "liushuai",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     "antd": "^3.11.0",
