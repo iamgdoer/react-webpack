@@ -1,6 +1,6 @@
 {
   "name": "react-webpack",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "React and webpack project scaffolding",
   "main": "webpack.config.js",
   "scripts": {
